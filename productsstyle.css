@@ -1,7 +1,92 @@
 body {
-    background: blue
+    background: blue;
+    background-image: url('https://www.shahedcctv.ir/wp-content/uploads/2017/06/star-background-seamless-repeating9.jpg');
 }
 h1 {
-    color:brown
-    background-color: darkblue
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    font-family: 'Bad Script', 'Goudy Old Style', 'Times New Roman';
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold
 }
+
+div {
+    background-color: wheat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom:50px;
+    max-width:800px;
+    min-width:300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+img {
+    max-height: 90%;
+    width: auto;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float:left;
+    border-radius: 17px;
+}
+
+h2 {
+    font-family: 'Book Antiqua', 'Goudy Old Style', 'Times New Roman';
+    font-size: 30px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    line-height: 0%;
+    text-align: center;
+    padding-right: 15px;
+}
+
+h3 {
+    font-family: 'Goudy Old Style', 'Times New Roman';
+    font-size:20px;
+    color: navy;
+    font-weight: normal;
+    padding-top: 0px;
+    line-height: 0%;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.seller {
+    font-size: 16px;
+    color: black;
+}
+
+h4 {
+    font-family: 'Book Antiqua', 'Times New Roman';
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    font-weight: normal;
+}
+
+h5 {
+    color: goldenrod;
+    background-color: black;
+    border-color: goldenrod;
+    font-family: 'Goudy Old Style', 'Times New Roman';
+    font-weight: bold;
+    width:100px;
+    height: 40px;
+    text-align: center;
+    margin-left: 50%;
+    border-style: solid;
+    border-width: 4px;
+    padding-top: 3px;
+    font-size: 20px;
+
+}
+
